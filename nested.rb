@@ -135,5 +135,5 @@ def adding_to_dennis
         }
      }
 
-programmer_hash[:languages]
+programmer_hash[dennis_ritchie[:languages]
 end
